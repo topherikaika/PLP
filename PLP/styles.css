@@ -3,3 +3,7 @@ header {
 }
 
 @media only screen and () {}
+
+body {
+  display: flex;
+}
